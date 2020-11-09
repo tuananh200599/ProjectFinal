@@ -5,5 +5,5 @@
 
 
 # Tiến độ 
-06/11/2020 : Tìm Template
+06/11/2020 : Tìm Template.
 09/11/2020 : Add Template , add giao diện.
