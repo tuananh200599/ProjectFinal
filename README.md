@@ -1,7 +1,7 @@
 # ProjectFinal 
 # Mô Tả 
  
-`ProjectFinal` là web bán quần áo được xây dựng trên ` ASP.NET Core 3.1 `. <br>
+`ProjectFinal` là web bán quần áo được xây dựng trên ` ASP.NET Core 3.1 ` và ` Entity Framework Core 3.1`. <br>
 # Chức năng 
 Cập nhật , sửa, xóa sản phẩm(CRUD).<br>
 
