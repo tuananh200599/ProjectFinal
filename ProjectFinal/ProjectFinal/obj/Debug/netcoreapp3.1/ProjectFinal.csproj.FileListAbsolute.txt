@@ -378,3 +378,4 @@ D:\DocNet\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\netcoreapp3.1\zh-Hant
 D:\DocNet\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\netcoreapp3.1\ProjectFinal.csproj.CoreCompileInputs.cache
 D:\DocNet\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\netcoreapp3.1\ProjectFinal.MvcApplicationPartsAssemblyInfo.cs
 D:\DocNet\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\netcoreapp3.1\ProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\DocNet\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Shop.cshtml.g.cs
